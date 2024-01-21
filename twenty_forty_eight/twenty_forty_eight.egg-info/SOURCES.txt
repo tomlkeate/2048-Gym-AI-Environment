@@ -1,0 +1,7 @@
+README.md
+setup.py
+twenty_forty_eight.egg-info/PKG-INFO
+twenty_forty_eight.egg-info/SOURCES.txt
+twenty_forty_eight.egg-info/dependency_links.txt
+twenty_forty_eight.egg-info/requires.txt
+twenty_forty_eight.egg-info/top_level.txt
