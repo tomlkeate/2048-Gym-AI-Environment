@@ -1,6 +1,7 @@
 Twenty Forty Eight
 -------------
-![Image of Custom 2048 Game built using Pygame](assets/2048.png "2048 Game")
+![Image 1 of Custom 2048 Game built using Pygame](assets/image1.png "2048 Game")
+![Image 2 of Custom 2048 Game built using Pygame](assets/image2.png "2048 Game Full")
 This is a simple environment created for 
 [gymnasium](https://gymnasium.farama.org/) its 
 built to support classic search as well as being used
